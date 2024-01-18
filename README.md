@@ -7,3 +7,10 @@
 
 <strong>Demo Video of the project - </strong>
 [Demo Video of AutoCAD to G-code Converter](https://www.youtube.com/watch?v=eLeIdSe5ofE)  (Too big to upload)
+
+## Stack Used
+
+```bash
+Backend: Python
+Frameworks: Tkinter
+```

@@ -11,6 +11,6 @@
 ## Stack Used
 
 ```bash
-Backend: Python
+Programming Language: Python
 Frameworks: Tkinter
 ```
